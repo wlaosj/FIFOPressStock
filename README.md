@@ -12,6 +12,6 @@
 - Python 3.x
 - 依赖库：`pandas`, `portalocker`, `openpyxl`
 
-## 安装
+## 安装依赖
 ```bash
 pip install pandas portalocker openpyxl
